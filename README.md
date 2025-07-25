@@ -26,17 +26,5 @@ Each operation is handled by built-in Python file methods such as:
 - `read()`, `write()`, `append()`
 - `os.remove()` (for deleting a file)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.x installed
-
-### Running the Script
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/file-handling-project.git
-   cd file-handling-project
 
 
